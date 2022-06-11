@@ -18,3 +18,5 @@
 
 
 ### Foco de Estudo atualmente em Back-End
+
+![plak](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulocastroDEV&theme=blue-green)
