@@ -3,14 +3,15 @@
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gustavo-083694239/)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulogustavovr/)
 
-
 ![Paulo's GitHub status](https://github-readme-stats.vercel.app/api?username=PaulocastroDEV&show_icons=true&theme=dark)
 
 
 ###  Tecnologias que tenho conhecimento
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 ### Bancos de dados SQL
 
