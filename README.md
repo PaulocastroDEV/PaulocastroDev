@@ -1,5 +1,5 @@
 ### Olá, me chamo Paulo Gustavo 👋
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gustavo-083694239/) 
 
 
 
