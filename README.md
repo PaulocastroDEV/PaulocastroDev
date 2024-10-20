@@ -8,6 +8,8 @@
 <h2 align="left">Meu nome é Paulo, sou desenvolvedor de software com foco em backend</h2>
 
 ###
+<p>Gosto da linha de pensamento que tecnologias são apenas ferramentas, e o que importa é entender os fundamentos para que se possa aplicar em qualquer ferramenta de forma a trazer sempre a melhor solução para o problema</p>
+###
 
 <h2 align="left">Eu codifico com</h2>
 
